@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nate.d3v@gmail.com**
 
-- ⚡ Fun fact **I take a cold shower every day**
+- ⚡ Fun fact **I love the collaborative storytelling aspect of role-playing games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
