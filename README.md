@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate web developer from Latin America</h3>
 
-- 🔭 I’m currently working on **full stack web apps**
+- 🔭 I’m currently working on **full stack serverless apps**
 
-- 🌱 I’m currently learning **React meta-frameworks**
+- 🌱 I’m currently learning **smart contract development**
 
-- 👯 I’m looking to collaborate on **Web3 projects**
+- 👯 I’m looking to collaborate on **web3 education projects**
 
 - 🤝 I’m looking for help with **networking**
 
 - 👨‍💻 All of my projects are available at [https://natedev.xyz/](https://natedev.xyz/)
 
-- 💬 Ask me about **anything related to blockchain**
+- 💬 Ask me about **anything related to blockchain development**
 
 - 📫 How to reach me **gm@natedev.xyz**
 
