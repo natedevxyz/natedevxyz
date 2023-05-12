@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://natedev.xyz/](https://natedev.xyz/)
 
-- 💬 Ask me about **anything related to blockchain development**
+- 💬 Ask me about **the latest news in the React ecosystem**
 
 - 📫 How to reach me **gm@natedev.xyz**
 
