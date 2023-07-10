@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **full stack serverless apps**
 
-- 🌱 I’m currently learning **smart contract development**
+- 🌱 I’m currently learning **LangChain**
 
-- 👯 I’m looking to collaborate on **web3 projects**
+- 👯 I’m looking to collaborate on **LLM projects**
 
 - 🤝 I’m looking for help with **networking**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **the latest news in the React ecosystem**
 
-- 📫 How to reach me **gm@natedev.xyz**
+- 📫 How to reach me **hi@natedev.xyz**
 
 - ⚡ Fun fact **I love the collaborative storytelling aspect of role-playing games**
 
