@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate web developer from Latin America</h3>
 
-- 🔭 I’m currently working on **full stack serverless apps**
+- 🔭 I’m currently working on **React Native apps**
 
-- 🌱 I’m currently learning **LangChain**
+- 🌱 I’m currently learning **Expo**
 
-- 👯 I’m looking to collaborate on **LLM projects**
+- 👯 I’m looking to collaborate on **mobile projects**
 
 - 🤝 I’m looking for help with **networking**
 
