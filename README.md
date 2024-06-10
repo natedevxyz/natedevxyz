@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a social media mobile app](https://zurf.social/)
 
-- 🌱 I’m currently learning **Expo**
+- 🌱 I’m currently learning **Advanced React Native Techniques**
 
 - 👯 I’m looking to collaborate on **onchain mobile projects**
 
