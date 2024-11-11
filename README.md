@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate React developer from Latin America</h3>
 
-- 🔭 I’m currently working on [a social media mobile app](https://zurf.social/)
+- 🔭 I’m currently working on [a social media mobile app](https://www.supercast.xyz/)
 
-- 🌱 I’m currently learning **Advanced React Native Techniques**
+- 🌱 I’m currently learning **Advanced React Native topics**
 
-- 👯 I’m looking to collaborate on **onchain mobile projects**
+- 👯 I’m looking to collaborate on **consumer apps**
 
-- 🤝 I’m looking for help with **networking**
+- 🤝 I’m looking for help with **organic marketing**
 
 - 👨‍💻 All of my projects are available at [https://natedev.xyz/](https://natedev.xyz/)
 
-- 💬 Ask me about **the latest React news**
+- 💬 Ask me about **the latest React Native news**
 
 - 📫 How to reach me **hi@natedev.xyz**
 
