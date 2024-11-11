@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a social media mobile app](https://www.supercast.xyz/)
 
-- 🌱 I’m currently learning **Advanced React Native topics**
+- 🌱 I’m currently learning **advanced React Native topics**
 
 - 👯 I’m looking to collaborate on **consumer apps**
 
