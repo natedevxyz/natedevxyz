@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate React Native developer from Latin America</h3>
 
-- 🔭 I’m currently working on [a social media mobile app](https://www.supercast.xyz/)
+- 🔭 I’m currently working on [mini apps](https://warpcast.com/natedev.eth)
 
 - 🌱 I’m currently learning **advanced React Native topics**
 
