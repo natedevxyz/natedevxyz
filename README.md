@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate React Native developer from Latin America</h3>
 
-- 🔭 I’m currently working on [consumer apps](https://x.com/natedevxyz)
+- 🔭 I’m currently working on [consumer apps](https://apps.apple.com/us/developer/nathan-schmidt/id1729928629)
 
 - 🌱 I’m currently learning **advanced React Native topics**
 
