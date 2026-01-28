@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate React Native developer from Latin America</h3>
 
-- 🔭 I’m currently working on [a new type of mobile wallet](https://www.boost.xyz/)
+- 🔭 I’m currently working on [a new kind of mobile wallet](https://www.boost.xyz/)
 
 - 🌱 I’m currently learning **advanced React Native topics**
 
